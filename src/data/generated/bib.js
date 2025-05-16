@@ -1,17 +1,91 @@
 ﻿const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+    "arxiv2024review": {
+        "author": "Anonymous",
+        "doi": "10.48550/arXiv.2409.06503",
+        "howpublished": "arXiv preprint arXiv:2409.06503",
+        "title": "Advancements in Gesture Recognition Techniques and Machine Learning Applications",
+        "type": "misc",
+        "year": "2024"
+    },
+    "babu2023touchless": {
+        "author": "Aiswarya Babu and Zahiriddin Rustamov and Sherzod Turaev",
+        "howpublished": "ResearchGate Preprint",
+        "note": "Available at https://www.researchgate.net/publication/377658844_INTELLIGENT_TOUCHLESS_SYSTEM_BASED_ON_GESTURE_RECOGNITION",
+        "title": "Intelligent Touchless System Based on Gesture Recognition",
+        "type": "misc",
+        "year": "2023"
+    },
+    "gupta2024deep": {
+        "author": "Sakshi Gupta and Vijay Singh and Piyush Bujade and Shikha Tiwari",
+        "doi": "10.36948/ijfmr.2024.v06i03.19602",
+        "journal": "International Journal of Future Generation Communication and Networking",
+        "title": "Hand Gesture Recognition System Using Deep Learning",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "year": "2024"
+    },
+    "kiran2025ai": {
+        "author": "Uday Kiran G and G. Kiran",
+        "journal": "International Journal of Research Publication and Reviews",
+        "number": "4",
+        "pages": "226--230",
+        "title": "AI-Based Hand Gesture Detection",
+        "type": "article",
+        "url": "https://ijrpr.com/uploads/V6ISSUE4/IJRPR41489.pdf",
+        "volume": "6",
+        "year": "2025"
+    },
+    "kumar2023bilstm": {
+        "author": "Deepak Kumar and Anjali Jain and Aarti Ganesh",
+        "journal": "International Journal of Intelligent Systems and Applications in Engineering",
+        "number": "9s",
+        "pages": "434--446",
+        "title": "Harnessing the Power of Deep Learning for Hand Gesture Recognition",
+        "type": "article",
+        "url": "https://www.ijisae.org/index.php/IJISAE/article/view/4337",
+        "volume": "12",
+        "year": "2023"
+    },
+    "saravana2025survey": {
+        "author": "Saravana M K and C L Lishan and Snigdha P Rao and Manushree K B",
+        "doi": "10.32628/IJSRST251222672",
+        "journal": "International Journal of Scientific Research in Science and Technology",
+        "title": "A Comprehensive Survey on Gesture-Controlled Interfaces: Technologies, Applications, and Challenges",
+        "type": "article",
+        "year": "2025"
+    },
+    "shao2024vision": {
+        "author": "Fenghua Shao and Tong Zhang and Shang Gao and Liuqingqing Yang and Qi Sun",
+        "doi": "10.48550/arXiv.2412.18321",
+        "howpublished": "arXiv preprint arXiv:2412.18321",
+        "title": "Computer Vision-Driven Gesture Recognition: Toward Natural and Intuitive Human-Computer Interfaces",
+        "type": "misc",
+        "year": "2024"
+    },
+    "yolov3_2021": {
+        "author": "Anonymous",
+        "doi": "10.3390/app11094164",
+        "journal": "Applied Sciences",
+        "number": "9",
+        "pages": "4164",
+        "title": "Real-Time Hand Gesture Recognition Based on Deep Learning Using YOLOv3 and DarkNet-53",
+        "type": "article",
+        "volume": "11",
+        "year": "2021"
+    },
+    "zhou2022noncontact": {
+        "author": "Hao Zhou and Wei Huang and Zhuo Xiao and Shichuan Zhang and Wangzhan Li and Jinhui Hu and Tianxing Feng and Jing Wu and Pengcheng Zhu and Yanchao Mao",
+        "doi": "10.1002/adfm.202208271",
+        "journal": "Advanced Functional Materials",
+        "title": "Deep-Learning-Assisted Noncontact Gesture-Recognition System for Touchless Human-Machine Interfaces",
+        "type": "article",
+        "year": "2022"
+    },
+    "zhu2024hci": {
+        "author": "Chaoyang Zhu",
+        "doi": "10.33168/JSMS.2024.0132",
+        "journal": "Journal of Smart Systems",
+        "title": "Deep Learning Techniques for Gesture Recognition and Motion Control in Human-Computer Interaction",
+        "type": "article",
+        "year": "2024"
     }
 };
